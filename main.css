@@ -6,3 +6,13 @@ body {background-color: black;}
 p {color: aliceblue;
     text-align: center;
 }
+
+p::first-letter {color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4em;
+
+ }
+
+ a:hover {
+    background-color: gold;
+  }
